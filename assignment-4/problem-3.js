@@ -20,4 +20,4 @@ function sortMaker(arr) {
         return arr;
     }
 }
-console.log(sortMaker([4,4]));
+console.log(sortMaker([4,-2]));
