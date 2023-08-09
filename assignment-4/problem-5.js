@@ -17,7 +17,7 @@ function canPay(changeArray, totalDue) {
     }
     
 }
-console.log(canPay([],10));
+console.log(canPay([1,5,5],10));
 
 
 

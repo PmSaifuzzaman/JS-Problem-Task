@@ -7,4 +7,4 @@ function cubeNumber(num){
         return result;
     }
 }
-console.log(cubeNumber(3));
+console.log(cubeNumber(4));
